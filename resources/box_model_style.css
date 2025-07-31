@@ -1,0 +1,54 @@
+/*
+  white: #FFFFFF
+  purple: #800080
+  deep sky blue: #0A75AD
+*/
+
+h1, h2, h3{
+  color: #800080;
+}
+
+h1 {
+  text-align: center;
+}
+
+th, td{
+  border: #0A75AD solid 3px;
+  padding: 5px;
+}
+
+table{
+  border-collapse: collapse;
+}
+
+a{
+  color: #800080;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+a:hover{
+  color: #0A75AD;
+}
+
+p.special{
+  background-color: #800080;
+  color: #FFFFFF;
+  width: auto;
+  height: auto;
+  padding:8px;
+  border: #0A75AD groove 5px;
+  margin: 5px;
+}
+
+div{
+  background-color: #800080;
+  width: 646px;
+  padding: 5px;
+  border: ridge 3px #0A75AD;
+  margin: 4px;
+}
+
+body{
+  padding: 4px;
+}
